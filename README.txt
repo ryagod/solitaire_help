@@ -1,1 +1,1 @@
-# solitaire_help
+Solitaire is a single player game
